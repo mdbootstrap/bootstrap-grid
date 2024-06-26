@@ -1,4 +1,4 @@
-# Free Bootstrap Grid system Layout
+# Free Bootstrap Grids & Layouts Collection
 
 Bootstrap grid is a powerful system for building mobile-first layouts. It's very extensive tool with a great number of options. Below we present you the core knowledge. It's a simplified overview of the most commonly used examples.
 
@@ -53,7 +53,25 @@ These components were built with a **free Material Design UI Kit for the latest 
  
  <hr class="my-5">
 
-<h4>For more examples visit our </strong><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/grid/">documentation</a>.</h4>
+<h4>For more examples visit our <a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/grid/">documentation</a>.</h4>
+
+ <hr class="my-5">
+
+<h3>Related Resources</h3>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/css-grid/">CSS Grid</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/columns/">Columns</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/containers/">Containers</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/flexbox/">Flexbox</a></h5>
+
+<h5><a target="_blank" href="https://mdbootstrap.com/docs/standard/layout/breakpoints/">Breakpoints</a></h5>
+
+
+
+
 
 
 
